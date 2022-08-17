@@ -1,0 +1,31 @@
+body {
+  background:#d3d3d3
+}
+
+#banner{
+  width: 100%
+}
+
+.principal{
+  background: #FFFFFF
+}
+
+h1 {
+    text-align: center
+}
+
+p{
+    text-align: center
+}
+
+em strong{
+  color: red;
+}
+
+.beneficios{
+  background: #FFFFFF
+}
+
+.Itens {
+  font-style: italic;
+}
