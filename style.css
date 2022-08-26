@@ -1,0 +1,52 @@
+body{
+
+}
+
+.titulo-principal{
+	padding-left: 20px;
+}
+
+#banner{
+	width: 100%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 20px;
+}
+
+.center{
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao{
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.beneficios{
+	background-color: #fffbfb;
+	padding: 25px ;
+}
+
+.itens{
+	font-style: italic;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;	
+}
+
+.imgbeneficios{
+	width: 50%;
+}
